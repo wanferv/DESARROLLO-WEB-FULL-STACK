@@ -138,7 +138,5 @@ Basándome en el documento que proporcionaste y en los temas avanzados de desarr
 - **Proyecto final**: Construcción de una aplicación fullstack completa usando React, NestJS, bases de datos optimizadas y despliegue en la nube.
 - **Evaluación continua**: Tests, auditorías de código, y hackatones internos.
 
-Este diseño integra tanto teoría como práctica en cada módulo, con una evaluación constante para garantizar que los estudiantes puedan aplicar lo aprendido en situaciones reales. ¿Te gustaría ajustar algún aspecto del curso?
-
-  
+Este diseño integra tanto teoría como práctica en cada módulo, con una evaluación constante para garantizar que los estudiantes puedan aplicar lo aprendido en situaciones reales.
  
