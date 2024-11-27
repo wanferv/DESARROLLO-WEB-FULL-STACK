@@ -249,7 +249,8 @@ Aquí tienes el contenido detallado para cada bloque del **Día 5: JavaScript B�
    2.
 
 **Paso 2**: En `script.js`, selecciona el botón y la caja, y añade un evento `click` para cambiar el estilo de la caja.
-```javascript
+
+````javascript
 let boton = document.getElementById("cambiarEstilo");
 let caja = document.getElementById("caja");
 
@@ -269,4 +270,5 @@ let caja = document.getElementById("caja");
 - **Repaso de conceptos**: Resumen de variables, estructuras de control, funciones y manipulación del DOM.
 - **Asignación para casa**: Practicar con ejercicios de JavaScript adicionales, incluyendo funciones y manipulación básica del DOM.
 
-Este contenido completo proporciona una base sólida en JavaScript y permite a los estudiantes agregar interactividad básica a sus páginas. ¿Te gustaría ajustar o expandir algún concepto?
+Este contenido completo proporciona una base sólida en JavaScript y permite a los estudiantes agregar interactividad básica a sus páginas.
+````

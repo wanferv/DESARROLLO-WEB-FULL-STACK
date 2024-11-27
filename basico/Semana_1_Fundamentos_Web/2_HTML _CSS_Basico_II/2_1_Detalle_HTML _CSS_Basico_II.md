@@ -322,4 +322,4 @@ Aquí encuentra el contenido completo para cada bloque del **Día 2: HTML y CSS 
 - **Preguntas y retroalimentación**: Abre espacio para resolver dudas y brindar retroalimentación en los trabajos realizados.
 - **Asignación**: Completar y pulir la página HTML y CSS para la próxima clase.
 
-Este contenido proporciona un enfoque completo para que los estudiantes comprendan y apliquen estilos avanzados en su página web. ¿Te gustaría añadir o ajustar algún aspecto específico?
+Este contenido proporciona un enfoque completo para que los estudiantes comprendan y apliquen estilos avanzados en su página web.
