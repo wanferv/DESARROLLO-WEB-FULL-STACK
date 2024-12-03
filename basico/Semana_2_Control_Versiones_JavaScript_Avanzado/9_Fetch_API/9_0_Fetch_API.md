@@ -1,4 +1,4 @@
-### **Día 10: Fetch API**
+### **Día 9: Fetch API**
 
 **Objetivo:** Consumir datos de APIs externas usando Fetch API.
 

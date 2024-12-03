@@ -2,7 +2,7 @@ Aquí tienes el contenido completo para el **Día 6: Control de Versiones con Gi
 
 ---
 
-### **Día 6: Control de Versiones con Git**
+### **Día 10: Control de Versiones con Git**
 
 **Objetivo:** Comprender los conceptos básicos de Git, gestionar repositorios y trabajar colaborativamente usando GitHub.
 

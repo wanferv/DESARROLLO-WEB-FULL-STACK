@@ -1,4 +1,4 @@
-## **Día 7: JavaScript Avanzado I**
+## **Día 6: JavaScript Avanzado I**
 
 ### **Objetivo:** Aprender características avanzadas de ES6 para mejorar la eficiencia y claridad del código.
 

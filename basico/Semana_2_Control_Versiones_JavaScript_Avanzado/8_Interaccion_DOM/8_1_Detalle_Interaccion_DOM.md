@@ -1,4 +1,4 @@
-### **Día 9: Interacción con el DOM**
+### **Día 8: Interacción con el DOM**
 
 **Objetivo:** Aprender a manipular elementos del DOM y manejar eventos en JavaScript para crear interfaces dinámicas e interactivas.
 
